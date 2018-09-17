@@ -1,0 +1,36 @@
+_repo: Prince-and-Heretic_52510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowen, Marjorie
+    aliases:
+    - Long, Mrs. Arthur
+    - Costanzo, Gabrielle Margaret Vere Campbell
+    - Long, Gabrielle Margaret Vere Campbell
+    - Long, Margaret Gabrielle Vere Campbell
+    - Campbell, Gabrielle Margaret Vere
+    - Paye, Robert
+    - Campbell, Margaret
+    birthdate: 1888
+    deathdate: 1952
+    gutenberg_agent_id: '41727'
+    url: http://www.gutenberg.org/2009/agents/41727
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princes -- Netherlands -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Fiction'
+- !lcsh 'William I, Prince of Orange, 1533-1584 -- Fiction'
+- GITenberg
+title: Prince and Heretic
+url: http://www.gutenberg.org/ebooks/52510
